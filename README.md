@@ -1,7 +1,7 @@
 # loanmodel
 
 
-Here, The model derived from our predictive analysis [here](https://github.com/BlackGuyFawkes/loanprogram), was deployed using Flask. The model used in this instance is the Random Forest Classifier since it is the most accurate model in the analysis.
+Here, The model derived from my predictive analysis [here](https://github.com/BlackGuyFawkes/loanprogram), was deployed using Flask. The model used in this instance is the Random Forest Classifier since it is the most accurate model in the analysis.
 
 # How To Use
 
